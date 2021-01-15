@@ -1,0 +1,30 @@
+body {
+    font-family: cursive;
+    background-image: linear-gradient(to right, #E0E0E0, #FFCCFF);
+
+}
+
+.achievements {
+    margin-top: 20px;
+
+}
+
+.achievements img {
+    margin: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.39);
+}
+.section-contents{
+   
+    padding-top: 10px;
+ margin-left: 17px;
+    
+    
+}
+.testimonial{
+   
+    display: inline-block;
+    background-image: linear-gradient(to right,#c0c0c0,#ffffff);
+   width: 33%;
+   height: 48%;
+   padding: 3px;
+}

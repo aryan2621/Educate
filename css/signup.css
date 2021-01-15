@@ -1,0 +1,16 @@
+body {
+    font-family: cursive;
+    background-image: linear-gradient(to right, #E0E0E0, #FFCCFF);
+
+}
+
+.container1{
+   margin-top: 40px;
+    width: 50%;
+    background-image: linear-gradient(to right,#f6efef,#ffffff);
+    margin: auto;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.39);
+}

@@ -1,0 +1,22 @@
+#teacher_blog{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.39);
+    padding: 40px;
+
+
+}
+body {
+    font-family: cursive;
+    background-image: linear-gradient(to right, #E0E0E0, #FFCCFF);
+
+
+}
+.video_section{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+nav{
+    margin-bottom: 20px;
+}
+
